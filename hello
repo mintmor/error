@@ -1,0 +1,17 @@
+# Greet the user
+print("Hello! Welcome to the world of Python.")
+
+# Ask for the user's name
+name = input("What's your name? ")
+
+# Print a greeting using the user's name
+print(f"Nice to meet you, {name}!")
+
+# Ask for the user's age
+age = input("How old are you? ")
+
+# Print information about the age
+print(f"You're a young person, {name}! You are {age} years old.")
+
+# End the script
+print("Thank you for using our script. Goodbye!")
