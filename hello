@@ -13,5 +13,5 @@ age = input("How old are you? ")
 # Print information about the age
 print(f"You're a young person, {name}! You are {age} years old.")
 
-# End the script
+# End
 print("Thank you for using our script. Goodbye!")
